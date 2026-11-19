@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号文章发布"
+  short_description: "把 Markdown 整理到飞书，生成配图并安全发布微信公众号文章"
+  default_prompt: "使用 $wechat-article-publisher 把完成的文章整理到飞书，生成配图并发布到微信公众号。"
